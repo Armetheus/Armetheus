@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Armetheus. That's my Nickname. My real name is Blessing.
-- 👀 I’m interested in everything data. I enjoy exploring and analysing data to provide insights and identify trends. I have a soft spot for healthcare data analysis
+- 👀 I’m interested in everything data. I enjoy exploring and analysing data to provide insights and identify trends.
 - 🌱 I’m currently learning Data visualization with Microsoft PowerBi 
 - 💞️ I’m looking to collaborate on data analytics projects and open to job opportunities
 - 📫 How to reach me? email: kamarblessing@gmail.com   mobile: +447405238623
